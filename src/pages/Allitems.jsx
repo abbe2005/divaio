@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { supabase } from '../lib/supabase';
-import './AllItems.css';
+import './Allitems.css';
 
 // ── Social Links ─────────────────────────────────────────────
 const SOCIAL_LINKS = {
