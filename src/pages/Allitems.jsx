@@ -78,7 +78,7 @@ export default function AllItems() {
         <div className="navbar__container">
           <div className="navbar__left">
             <a href="/">
-              <img className="navbar__logo-img" src="src/assets/logo.png" alt="Divaio Store" />
+              <img className="navbar__logo-img" src="./logo.png" alt="Divaio Store" />
             </a>
           </div>
           <div className="navbar__center">
@@ -162,7 +162,7 @@ export default function AllItems() {
         </div>
         <div className="contact__footer">
           <div className="contact__rule" />
-          <p className="contact__copy">By Bytwo</p>
+          <p className="contact__copy">© 2026 ByTwo. Designed and developed by ByTwo.</p>
         </div>
       </section>
 

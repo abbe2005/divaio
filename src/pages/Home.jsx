@@ -98,7 +98,7 @@ export default function Home() {
         <div className="navbar__container">
           <div className="navbar__left">
             <a href="/">
-              <img className="navbar__logo-img" src="/src/assets/logo.png" alt="Divaio Store" />
+              <img className="navbar__logo-img" src="./logo.png" alt="Divaio Store" />
             </a>
           </div>
           <div className="navbar__center">
@@ -116,13 +116,13 @@ export default function Home() {
         <div className="hero__video-wrap">
           <video
             className="hero__video"
-            src="/src/assets/divaio.mp4"
+            src="./divaio.mp4"
             autoPlay muted loop playsInline
           />
           <div className="hero__overlay" />
         </div>
         <div className="hero__content">
-          <img className="hero__logo" src="/src/assets/logo.png" alt="Divaio Store" />
+          <img className="hero__logo" src="./logo.png" alt="Divaio Store" />
           <p className="hero__tagline">elegance in every thread</p>
           <div className="hero__actions">
             <a href="#contact" className="hero__btn">Contact Us</a>
@@ -136,7 +136,7 @@ export default function Home() {
           <div className="carousel__heading-wrap">
             <img
               className="carousel__title-logo"
-              src="/src/assets/title.png"
+              src="./title.png"
               alt="New Arrivals"
             />
           </div>
@@ -214,7 +214,7 @@ export default function Home() {
         </div>
         <div className="contact__footer">
           <div className="contact__rule" />
-          <p className="contact__copy">By Bytwo</p>
+          <p className="contact__copy">© 2026 ByTwo. Designed and developed by ByTwo.</p>
         </div>
       </section>
     </main>

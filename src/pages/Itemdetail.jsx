@@ -452,7 +452,7 @@ export default function ItemDetail({ id }) {
         </div>
         <div className="contact__footer">
           <div className="contact__rule" />
-          <p className="contact__copy">By Bytwo</p>
+          <p className="contact__copy">© 2026 ByTwo. Designed and developed by ByTwo.</p>
         </div>
       </section>
 

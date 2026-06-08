@@ -49,7 +49,7 @@ export default function About() {
         <div className="navbar__container">
           <div className="navbar__left">
             <a href="/">
-              <img className="navbar__logo-img" src="src/assets/logo.png" alt="Divaio Store" />
+              <img className="navbar__logo-img" src="./logo.png" alt="Divaio Store" />
             </a>
           </div>
           <div className="navbar__center">
@@ -86,7 +86,7 @@ export default function About() {
             </a>
           </div>
           <div className="store-card__map">
-            <img src="src/assets/jps1.png" alt="Store 01 location map" />
+            <img src="./jps1.png" alt="Store 01 location map" />
             <div className="store-card__map-label">Store 01</div>
           </div>
         </div>
@@ -110,7 +110,7 @@ export default function About() {
             </a>
           </div>
           <div className="store-card__map">
-            <img src="src/assets/jps2.png" alt="Store 02 location map" />
+            <img src="./jps2.png" alt="Store 02 location map" />
             <div className="store-card__map-label">Store 02</div>
           </div>
         </div>
@@ -121,7 +121,7 @@ export default function About() {
       <section className="why">
 
         <div className="why__header">
-          <img src="src/assets/title2.png" alt="Why Choose Divaio" className="why__title-img" />
+          <img src="./title2.png" alt="Why Choose Divaio" className="why__title-img" />
         </div>
 
         <div className="why__body">
@@ -157,7 +157,7 @@ export default function About() {
         </div>
         <div className="contact__footer">
           <div className="contact__rule" />
-          <p className="contact__copy">By Bytwo</p>
+          <p className="contact__copy">© 2026 ByTwo. Designed and developed by ByTwo.</p>
         </div>
       </section>
 
